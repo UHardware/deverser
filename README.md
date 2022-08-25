@@ -25,7 +25,7 @@ A jailbroken device with OpenSSH installed (Specific jailbreak doesn't matter, E
 4. Follow what the script asks you to do (Mostly just entering your device's IP address and root password for SSH/SCP)
 
 ## Credits
-Dariusz Szemerda (Me) - [@UHardware] - For porting to windows10
+Dariusz Szemerda (Me) - [@UHardware](https://twitter.com/UHardware_PL) - For porting to windows10
 
 Matty - [@mosk_i](https://twitter.com/moski_dev) - For writing the script
 
