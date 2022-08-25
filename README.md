@@ -1,4 +1,4 @@
-# Déverser - WIN 10 PORT
+# Déverser - Win 10 PORT
 Simple script to dump onboard SHSH with a valid Generator for iOS devices - now availble for Windows users!
 
 ## What is this/What does this do
