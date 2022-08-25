@@ -1,0 +1,12 @@
+prefix=/usr/local
+exec_prefix=${prefix}
+libdir=${exec_prefix}/lib
+includedir=${prefix}/include
+
+Name: libimg4tool
+Description: A library for manipulating IMG4, IM4M and IM4P files
+
+Requires: openssl >= 0.9.8 libplist-2.0 >= 2.2.0 libgeneral >= 39
+Version: 197
+Libs: -L${libdir} -limg4tool
+Cflags: -I${includedir}
