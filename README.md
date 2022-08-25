@@ -13,16 +13,17 @@ Déverser is just a small project originally created by MatthewPierson!
 
 ## Requirements
 
-A Windows 10 machine
-
-A jailbroken device with OpenSSH installed (Specific jailbreak doesn't matter, E.G checkra1n, Unc0ver, chimera, etc)
+- A Windows 10 machine
+- Minimum 3GB of free disk space
+- A jailbroken device with OpenSSH installed (Specific jailbreak doesn't matter, E.G checkra1n, Unc0ver, chimera, etc)
 
 ## Usage
 
 1. Run "(1) Install WSL"
-2. Run "(2) Set your password", press any key and type "passwd root", then set your password and exit.
-3. Run "(3) Run Deverser"
-4. Follow what the script asks you to do (Mostly just entering your device's IP address and root password for SSH/SCP)
+2. After restart, you have to wait for complete the WSL (Ubuntu) installation
+3. Run "(2) Set your password", press any key and type "passwd root", then set your password and exit.
+4. Run "(3) Run Deverser"
+5. Follow what the script asks you to do (Mostly just entering your device's IP address and root password for SSH/SCP)
 
 ## Credits
 Dariusz Szemerda (Me) - [@UHardware](https://twitter.com/UHardware_PL) - For porting to windows10
