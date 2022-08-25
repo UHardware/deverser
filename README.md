@@ -20,10 +20,12 @@ Déverser is just a small project originally created by MatthewPierson!
 ## Usage
 
 1. Run "(1) Install WSL"
-2. After restart, you have to wait for complete the WSL (Ubuntu) installation
-3. Run "(2) Set your password", press any key and type "passwd root", then set your password and exit.
+2. After restart, you have to wait for complete the WSL (Ubuntu) installation. 
+When the installation is complete, the terminal will ask you to set a username and password
+3. OPTIONAL - Use only if the deverser script asks for the ROOT user password.
+Run "(2) Set your password", press any key and type "passwd root", then set your password and exit.
 4. Run "(3) Run Deverser"
-5. Follow what the script asks you to do (Mostly just entering your device's IP address and root password for SSH/SCP)
+5. Follow what the script asks you to do (Mostly just entering your device's IP address and iDevice root password - default: "alpine")
 
 ## Credits
 Dariusz Szemerda (Me) - [@UHardware](https://twitter.com/UHardware_PL) - For porting to windows10
