@@ -15,6 +15,7 @@ Déverser is just a small project originally created by MatthewPierson!
 
 - A Windows 10 machine
 - Minimum 3GB of free disk space
+- Enabled Virtual Machine Platform Windows feature and virtualization  in the BIOS/UEFI.
 - A jailbroken device with OpenSSH installed (Specific jailbreak doesn't matter, E.G checkra1n, Unc0ver, chimera, etc)
 
 ## Usage
